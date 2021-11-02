@@ -1,7 +1,7 @@
 # Preproposal
   
 ## What idea(s) do you have for your final project?
-'''Games:
+Games:
   -TicTacToe
   -Pong
   -Tetris
@@ -24,4 +24,4 @@ Im not working with anyone else.
 
 ## Do you have any questions of your own?
 No
-'''
+
